@@ -14,7 +14,6 @@ from pathlib import Path
 # from decouple import config, Csv
 import os
 import dj_database_url
-import django_heroku
 from decouple import config, Csv
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -178,4 +177,3 @@ REST_FRAMEWORK = {
 }
 
 
-django_heroku.settings(locals())
