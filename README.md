@@ -32,12 +32,12 @@ Technologies used to develop this application:
 
 ## Behaviour Driven Development(BDD)
 ### 1. Displays Landing Page
-* INPUT: Choose Page
-* OUTPUT: Page Chosen.
+* INPUT: Join Hood
+* OUTPUT: Hood select.
 
 ### 2. Search Image
-* INPUT: projectname
-* OUTPUT:Search Results. 
+* INPUT: Add Business
+* OUTPUT:Business posted. 
 
 ### 3. View project Details
 * INPUT: Click Details
