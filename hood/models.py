@@ -27,7 +27,7 @@ class NeighbourHood(models.Model):
 
     @classmethod
     def find_neighborhood(cls, neighborhood_id):
-        return cls.objects.filter(ideighborhood_id)
+        return cls.objects.filter(id=neighborhood_id)
 
 
 class Profile(models.Model):
