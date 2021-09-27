@@ -35,13 +35,13 @@ Technologies used to develop this application:
 * INPUT: Join Hood
 * OUTPUT: Hood select.
 
-### 2. Search Image
+### 2. Add Business
 * INPUT: Add Business
 * OUTPUT:Business posted. 
 
-### 3. View project Details
-* INPUT: Click Details
-* OUTPUT:project Details
+### 3. View posts
+* INPUT: Post
+* OUTPUT:Posted
 
 
 
