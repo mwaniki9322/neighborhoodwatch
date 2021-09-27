@@ -5,10 +5,9 @@ join a hood, one can see businesses and posts in only that wood they belong to.
 
 
 ## Application Features
-FOR ADMIN:
-* Add Projects
-* Add Rate projects
-* Add Links
+* Add Hood
+* Join Hood
+* Add businesses
 
 ## Setup Proces
 To make advancements/modifications, follow these steps:
