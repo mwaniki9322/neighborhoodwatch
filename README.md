@@ -49,7 +49,7 @@ Technologies used to develop this application:
 * Add custom validations to the form
 
 ### Known bugs
-* No bags reported.Raise a bug fix [here](https://github.com/mwaniki9322/instagram.git)
+* No bags reported.Raise a bug fix [here](https://github.com/mwaniki9322/neighborhoodwatch.git)
 
 ## Contact
 * If you wish to reach out incase of any issue you can pull request
