@@ -67,7 +67,7 @@ def single_hood(request, hood_id):
         'hood': hood,
         'business': business,
         'form': form,
-        'posts': posts
+        'posts': post
     }
     return render(request, 'single_hood.html', params)
 
