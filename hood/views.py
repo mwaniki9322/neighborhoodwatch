@@ -79,7 +79,7 @@ def hood_members(request, hood_id):
 
 def create_post(request, hood_id):
     hood = NeighbourHood.objects.get(id=hood_id)
-    if request.method === 'POST':
+    if request.method == 'POST':
         form = PostForm(request.POST)
         if form.is_valid():
             post = form.save(commit=False)
